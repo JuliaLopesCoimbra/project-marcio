@@ -10,3 +10,7 @@ Lista de Tarefas: Exibe tarefas associadas ao nome do usuário armazenado no arm
 Cor de Fundo Dinâmica: Os usuários podem alterar a cor de fundo da página por meio de uma interface simples.
 
 Você pode ver melhor pelas imagens abaixo:
+![one](marcio.png)
+![two](marcio1.png)
+![three](marcio2.png)
+
